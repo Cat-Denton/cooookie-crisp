@@ -23,8 +23,8 @@ _There's not really much to describe here_
 
 ## Known Bugs
 
-* _There is a spider in my shoe_
-* _The spider has a fly who he says is a friend but I don't believe him_
+*_There is a spider in my shoe_
+*_The spider has a fly who he says is a friend but I don't believe him_
 
 ## License
 
